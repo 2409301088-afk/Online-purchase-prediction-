@@ -61,8 +61,7 @@ streamlit run app.py
 ---
 
 ## 🔗 Deployment
-https://github.com/2409301088-afk/Online-purchase-prediction-
-
+https://hugzwvsxbu2jkcffsbkfga.streamlit.app/
 
 ---
 
